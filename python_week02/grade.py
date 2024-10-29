@@ -15,5 +15,5 @@ elif a >=55:
     print("เกรด1.5")
 elif a >=50:
     print("เกรด1")   
-elif a >=50:
+elif a <=50:
     print("เกรด0")    
